@@ -1,0 +1,95 @@
+geography,geography_label.value,industry,industry_label.value,ownercode_label.value,race_label.value,ethnicity_label.value,firmsize_label.value,year,quarter,Employment
+24510,"Baltimore, MD",311,Food Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,2665
+24510,"Baltimore, MD",312,Beverage and Tobacco Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,313
+24510,"Baltimore, MD",313,Textile Mills,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,
+24510,"Baltimore, MD",314,Textile Product Mills,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,134
+24510,"Baltimore, MD",315,Apparel Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,171
+24510,"Baltimore, MD",316,Leather and Allied Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,
+24510,"Baltimore, MD",321,Wood Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,304
+24510,"Baltimore, MD",322,Paper Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,105
+24510,"Baltimore, MD",323,Printing and Related Support Activities,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,1001
+24510,"Baltimore, MD",324,Petroleum and Coal Products Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,227
+24510,"Baltimore, MD",325,Chemical Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,1593
+24510,"Baltimore, MD",326,Plastics and Rubber Products Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,618
+24510,"Baltimore, MD",327,Nonmetallic Mineral Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,423
+24510,"Baltimore, MD",331,Primary Metal Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,216
+24510,"Baltimore, MD",332,Fabricated Metal Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,840
+24510,"Baltimore, MD",333,Machinery Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,197
+24510,"Baltimore, MD",334,Computer and Electronic Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,83
+24510,"Baltimore, MD",335,"Electrical Equipment, Appliance, and Component Manufacturing",All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,72
+24510,"Baltimore, MD",336,Transportation Equipment Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,373
+24510,"Baltimore, MD",337,Furniture and Related Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,184
+24510,"Baltimore, MD",339,Miscellaneous Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2019,4,461
+,,,,,,,,,,
+,,,,,,,,,total 2019,9980
+,,,,,,,,,,
+24510,"Baltimore, MD",311,Food Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,2651
+24510,"Baltimore, MD",312,Beverage and Tobacco Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,310
+24510,"Baltimore, MD",313,Textile Mills,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,
+24510,"Baltimore, MD",314,Textile Product Mills,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,140
+24510,"Baltimore, MD",315,Apparel Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,125
+24510,"Baltimore, MD",316,Leather and Allied Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,
+24510,"Baltimore, MD",321,Wood Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,309
+24510,"Baltimore, MD",322,Paper Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,99
+24510,"Baltimore, MD",323,Printing and Related Support Activities,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,910
+24510,"Baltimore, MD",324,Petroleum and Coal Products Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,230
+24510,"Baltimore, MD",325,Chemical Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,1460
+24510,"Baltimore, MD",326,Plastics and Rubber Products Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,584
+24510,"Baltimore, MD",327,Nonmetallic Mineral Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,336
+24510,"Baltimore, MD",331,Primary Metal Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,216
+24510,"Baltimore, MD",332,Fabricated Metal Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,760
+24510,"Baltimore, MD",333,Machinery Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,178
+24510,"Baltimore, MD",334,Computer and Electronic Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,115
+24510,"Baltimore, MD",335,"Electrical Equipment, Appliance, and Component Manufacturing",All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,64
+24510,"Baltimore, MD",336,Transportation Equipment Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,284
+24510,"Baltimore, MD",337,Furniture and Related Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,171
+24510,"Baltimore, MD",339,Miscellaneous Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2020,4,464
+,,,,,,,,,,
+,,,,,,,,,total 2020,9406
+,,,,,,,,,,
+24510,"Baltimore, MD",311,Food Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,3055
+24510,"Baltimore, MD",312,Beverage and Tobacco Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,395
+24510,"Baltimore, MD",313,Textile Mills,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,
+24510,"Baltimore, MD",314,Textile Product Mills,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,168
+24510,"Baltimore, MD",315,Apparel Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,122
+24510,"Baltimore, MD",321,Wood Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,278
+24510,"Baltimore, MD",322,Paper Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,125
+24510,"Baltimore, MD",323,Printing and Related Support Activities,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,902
+24510,"Baltimore, MD",324,Petroleum and Coal Products Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,226
+24510,"Baltimore, MD",325,Chemical Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,1694
+24510,"Baltimore, MD",326,Plastics and Rubber Products Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,595
+24510,"Baltimore, MD",327,Nonmetallic Mineral Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,519
+24510,"Baltimore, MD",331,Primary Metal Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,233
+24510,"Baltimore, MD",332,Fabricated Metal Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,772
+24510,"Baltimore, MD",333,Machinery Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,158
+24510,"Baltimore, MD",334,Computer and Electronic Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,128
+24510,"Baltimore, MD",335,"Electrical Equipment, Appliance, and Component Manufacturing",All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,69
+24510,"Baltimore, MD",336,Transportation Equipment Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,256
+24510,"Baltimore, MD",337,Furniture and Related Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,101
+24510,"Baltimore, MD",339,Miscellaneous Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2021,4,496
+,,,,,,,,,,
+,,,,,,,,,total 2021,10292
+,,,,,,,,,,
+24510,"Baltimore, MD",311,Food Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,3134
+24510,"Baltimore, MD",312,Beverage and Tobacco Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,349
+24510,"Baltimore, MD",313,Textile Mills,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,
+24510,"Baltimore, MD",314,Textile Product Mills,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,218
+24510,"Baltimore, MD",315,Apparel Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,200
+24510,"Baltimore, MD",316,Leather and Allied Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,
+24510,"Baltimore, MD",321,Wood Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,349
+24510,"Baltimore, MD",322,Paper Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,262
+24510,"Baltimore, MD",323,Printing and Related Support Activities,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,976
+24510,"Baltimore, MD",324,Petroleum and Coal Products Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,231
+24510,"Baltimore, MD",325,Chemical Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,1536
+24510,"Baltimore, MD",326,Plastics and Rubber Products Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,551
+24510,"Baltimore, MD",327,Nonmetallic Mineral Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,510
+24510,"Baltimore, MD",331,Primary Metal Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,146
+24510,"Baltimore, MD",332,Fabricated Metal Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,820
+24510,"Baltimore, MD",333,Machinery Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,133
+24510,"Baltimore, MD",334,Computer and Electronic Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,128
+24510,"Baltimore, MD",335,"Electrical Equipment, Appliance, and Component Manufacturing",All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,63
+24510,"Baltimore, MD",336,Transportation Equipment Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,131
+24510,"Baltimore, MD",337,Furniture and Related Product Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,53
+24510,"Baltimore, MD",339,Miscellaneous Manufacturing,All Private,All Races,All Ethnicities,All Firm Sizes,2022,1,465
+,,,,,,,,,,
+,,,,,,,,,total 2022,10255
