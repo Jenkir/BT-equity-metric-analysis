@@ -1,2 +1,2 @@
-Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Location,Unemployment rate,Labor participation rate
- 2016,593353,130053,498366,312075,283328,27759,Baltimore,6.0,62.6
+Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Location,Unemployment rate,Black unemployment,White unemployment,Labor participation rate,Black labor participation,White labor participation
+2016,593353,130053,498366,312075,283328,27759,Baltimore,8.9,13.2,3.4,62.6,58.7,69.5

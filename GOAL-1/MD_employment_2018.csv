@@ -1,2 +1,4 @@
-Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Location,Unemployment rate,Labor participation rate
- 2018,5899819,528203,4852950,3283636,3090469,160777,Maryland,3.0,67.7
+Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Location,Unemployment rate,Black unemployment,White unemployment,Labor participation rate,Black labor participation,White labor participation
+2018,5899819,528203,4852950,3283636,3090469,160777,Maryland,3,7.1,3.8,67.7,68,66.3
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

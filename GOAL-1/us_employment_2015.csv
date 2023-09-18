@@ -1,2 +1,6 @@
-Location,Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Unemployment rate,Labor participation rate
-United States,2015,313476400,46153077,256167758,161662964,150534773,10117710,4.0,63.0
+Location,Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Unemployment rate,Black unemployment,White unemployment,Labor participation rate,Black labor participation,White labor participation
+United States,2015,313476400,46153077,256167758,161662964,150534773,10117710,4,11.3,5.3,63,62,62.8
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

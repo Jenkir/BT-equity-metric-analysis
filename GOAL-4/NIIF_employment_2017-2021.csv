@@ -1,2 +1,7 @@
-Population age 16 and over,"# employed, age 16 and over",# unemployed age 16 and over,In labor force,Employment rate,Labor force participation rate,Unemployment rate
-341728.0,183906.0,18390.0,202564.0,53.8,59.3,5.4
+Location,Population age 16 and over,"# employed, age 16 and over",# unemployed age 16 and over,In labor force,Employment rate,Labor force participation rate,Unemployment rate,,
+Within NIIF boundary,341728,183906,18390,202564,53.8,59.3,5.4,,
+Outside NIIF boundary,97877,61283,2936,64384,62.6,65.8,3,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

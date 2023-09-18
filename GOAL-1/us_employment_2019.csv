@@ -1,2 +1,4 @@
-Location,Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Unemployment rate,Labor participation rate
-United States,2019,320118791,39490096,263534161,167501734,158758794,7515579,3.0,64.0
+Location,Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Unemployment rate,Black unemployment,White unemployment,Labor participation rate,Black labor participation,White labor participation
+United States,2019,320118791,39490096,263534161,167501734,158758794,7515579,3,7.7,3.9,64,63.2,62.9
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

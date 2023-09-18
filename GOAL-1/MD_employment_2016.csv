@@ -1,2 +1,14 @@
-Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Location,Unemployment rate,Labor participation rate
- 2016,5875026,567715,4819956,3277687,3073923,175235,Maryland,4.0,68.0
+Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Location,Unemployment rate,Black unemployment,White unemployment,Labor participation rate,Black labor participation,White labor participation,,,
+2016,5875026,567715,4819956,3277687,3073923,175235,Maryland,4,7.7,4.3,68,68.4,66.8,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

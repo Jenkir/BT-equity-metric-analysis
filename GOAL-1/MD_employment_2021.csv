@@ -1,2 +1,5 @@
-Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Location,Unemployment rate,Labor participation rate
- 2021,6023847,618372,4964751,3304168,3070750,192275,Maryland,4.0,66.6
+Year,Persons for whom poverty status determined,Individuals- income below poverty level,Population 16 years and over,In labor force,Employed civilians,Unemployed civilians,Location,Unemployment rate,Black unemployment,White unemployment,Labor participation rate,Black labor participation,White labor participation
+2021,6023847,618372,4964751,3304168,3070750,192275,Maryland,4,8.4,4.3,66.6,66.4,65.3
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
