@@ -1,2 +1,2 @@
 # BT-equity-metric-analysis
-create and update demogrpahic information related to Baltimore's Economic Development Plan, Baltimore Together
+In this analysis, I compared economic indicators for Black and white residents of Baltimore City and Maryland to see how wide the disparity is in Baltimore. 
